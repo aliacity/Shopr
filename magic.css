@@ -69,7 +69,8 @@ iframe{
   scroll-snap-align: start;
 }
 .footings{
-  background-color: #65b4eb;
+  background-color: black;
+  font-color: white;
   text-align: center;
   padding: 10px;
 }
