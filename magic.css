@@ -68,3 +68,8 @@ iframe{
 .flex-box{
   scroll-snap-align: start;
 }
+footer{
+  background-color: #65b3eb;
+  text-align: center;
+  padding: 10px;
+}
